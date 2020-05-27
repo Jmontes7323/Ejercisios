@@ -5,4 +5,3 @@ función  p ( n , po )
     volver  fi ;
 }
 consola . log ( p ( 2 , 8 ) )
-© 2020 GitHub, Inc.
